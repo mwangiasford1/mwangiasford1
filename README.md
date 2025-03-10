@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mwangiasford1
-- 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... at Power Learning Project
-- 💞️ I’m looking to collaborate on ...web development
-- 📫 How to reach me ...email: mwangiasford12@gmail.com
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning at Power Learning Project
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me email: mwangiasford12@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
